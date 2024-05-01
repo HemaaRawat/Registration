@@ -22,7 +22,7 @@ require("./db/conn");
 //cors error
 app.use(
   cors({
-    origin: "http://localhost:5000",
+    origin: "http://localhost:8000",
   })
 );
 
