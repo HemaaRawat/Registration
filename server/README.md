@@ -8,7 +8,7 @@
 npm install -g bun
 ```
 
-- Install [Docker](https://docker.com/installation) and start docker engine/desktop
+- Install [Docker](https://docs.docker.com/get-docker/) and start docker engine/desktop
 
 ## Installation
 
